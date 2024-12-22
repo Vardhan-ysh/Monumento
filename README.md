@@ -93,7 +93,7 @@ If you have any questions, need clarifications, or want to discuss ideas, feel f
 
 ## Made by the Community, with ❤️
 
-<a href="https://github.com/AOSSIE-Org/monumento/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AOSSIE-Org/monumento" alt="Contributors"/>
+<a href="https://github.com/AOSSIE-Org/Monumento/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AOSSIE-Org/Monumento" alt="Contributors"/>
 </a>
 <br>
